@@ -27,3 +27,13 @@ Bike_Price_Model/
 + ├── app.py # Application for price prediction
 + ├── README.md # Project documentation
 + └── tempCodeRunnerFile.py # Temporary development file
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="images/Screenshot 2026-02-07 151855.png" width="600">
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2026-02-07 151828.png" width="600">
+</p>
+
