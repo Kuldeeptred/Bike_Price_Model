@@ -20,10 +20,10 @@ The **Bike Price Prediction Model** is a machine learning project designed to pr
 
 ## 📁 Project Structure
 Bike_Price_Model/
-##│
-##├── Bike_Price_Model.ipynb # Data analysis, preprocessing & model training
-##├── Used_Bikes.csv # Dataset
-##├── bike_model.pkl # Trained ML model
-##├── app.py # Application for price prediction
-##├── README.md # Project documentation
-##└── tempCodeRunnerFile.py # Temporary development file
+## │
+## ├── Bike_Price_Model.ipynb # Data analysis, preprocessing & model training
+## ├── Used_Bikes.csv # Dataset
+## ├── bike_model.pkl # Trained ML model
+## ├── app.py # Application for price prediction
+## ├── README.md # Project documentation
+## └── tempCodeRunnerFile.py # Temporary development file
